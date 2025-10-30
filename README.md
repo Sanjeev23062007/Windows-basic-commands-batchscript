@@ -1,14 +1,14 @@
-### Ex08-Windows-basic-commands-batchscript
+# Ex08-Windows-basic-commands-batchscript
 
-# Name : Sanjeev A
-# REG NO: 212224230246
+## Name : Sanjeev A
+## REG NO: 212224230246
 
-# AIM:
+## AIM:
 To execute Windows basic commands and batch scripting
 
 
 
-# DESIGN STEPS:
+## DESIGN STEPS:
 
 ### Step 1:
 
@@ -24,7 +24,7 @@ Execute the necessary commands/batch file for the desired output.
 
 
 
-# WINDOWS COMMANDS:
+## WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "my-folder"
 ## COMMAND AND OUTPUT
